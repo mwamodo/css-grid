@@ -1495,10 +1495,10 @@ ret@~0.1.10:
   resolved "https://registry.yarnpkg.com/ret/-/ret-0.1.15.tgz#b8a4825d5bdb1fc3f6f53c2bc33f81388681c7bc"
   integrity sha512-TTlYpa+OL+vMMNG24xSlQGEJ3B/RzEfUlLct7b5G/ytav+wPrplCpVMFuwzXbkecJrb6IYo1iFb0S9v37754mg==
 
-run-script-os@1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/run-script-os/-/run-script-os-1.0.7.tgz#7cd51144a19c6ca364fe668433f55b47babf4749"
-  integrity sha512-H4NAhP9PiseQQm3Vpen7CHksfKGqC4dmwoVu/9th97r3XyBrMtkg4jIUiy/8dgzuI9MGwmK/7vf13Wncx+Y4bw==
+run-script-os@1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/run-script-os/-/run-script-os-1.1.1.tgz#4b4c5fd212b52fe8d9a1bca23f118764ee423c6c"
+  integrity sha512-tM3mfchUIpo9WOFioO3eO/lTgRbtqcqBmSkkqfkjXmxn7vvhwykOXxOOKIXFP+ZConvLsS5KskM3yX+XBfDD4g==
 
 rx@4.1.0:
   version "4.1.0"
